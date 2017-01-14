@@ -3,7 +3,7 @@
     <img src="logo.png" height="300" />
   </a>
   <br><br>
-  <big><big><big><big><big>Alizon</big></big></big></big></big>
+  <font size="+10">Alizon</font>
   <br><br>
 </p>
 
