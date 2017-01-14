@@ -1,9 +1,8 @@
 <p align="center">
-  <b>Alizon</b><br>
   <a href="logo.png">
     <img src="logo.png" height="300" />
   </a>
-  <br><br>
+  <b>Alizon</b><br>
 </p>
 
 Cut out the Middleman
