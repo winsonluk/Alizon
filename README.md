@@ -1,8 +1,9 @@
 <p align="center">
   <a href="logo.png">
     <img src="logo.png" height="300" />
-  </a><br><br>
-  <h1>Alizon</h1>
+  </a>
+  <br><br>
+  <font size="100">Alizon</font>
   <br><br>
 </p>
 
