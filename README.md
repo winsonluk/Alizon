@@ -18,7 +18,6 @@ Deploying the Software
 TODO
 
 <p align="center">
-  <a href="docs/images/logo_shiny.png">
     <img src="docs/images/logo_shiny.png" height="100" />
-  </a>
+  <br><br>
 </p>
