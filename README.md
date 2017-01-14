@@ -19,5 +19,4 @@ TODO
 
 <p align="center">
     <img src="docs/images/logo_shiny.png" height="100" />
-  <br><br>
 </p>
