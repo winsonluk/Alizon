@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="docs/images/logo.png">
     <img src="docs/images/logo.png" height="300" />
-  </a>
   <br><br>
 </p>
 
