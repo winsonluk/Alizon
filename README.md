@@ -1,5 +1,5 @@
 <a href="logo.png">
-    <img src="logo_tiny.png" align="right" height="100" />
+    <img src="logo_tiny.png" align="right" height="70" />
 </a>
 
 Alizon: Cut out the Middleman
