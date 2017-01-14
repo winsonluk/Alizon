@@ -1,12 +1,16 @@
 {
   "manifest_version": 2,
 
-  "name": "Getting started example",
-  "description": "This extension shows a Google Image search result for the current page",
+  "name": "Alizon",
+  "description": "This extension reveals AliExpress offers on similar Amazon items when shopping!",
   "version": "1.0",
+  "icons": {"16": "icon16.png",
+            "48": "icon48.png",
+            "128": "icon128.png"},
 
   "browser_action": {
-    "default_icon": "active.png",
+    "default_icon": {"19": "active19.png",
+                      "38": "active38.png"},
     "default_popup": "popup.html"
   },
 
@@ -16,7 +20,7 @@
   ],
 
   "background": {
-    "scripts": ["jquery-1.11.1.min.js"]
+    "scripts": ["background.js", "jquery-1.11.1.min.js"]
   },
 
   "web_accessible_resources": [
