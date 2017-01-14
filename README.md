@@ -1,8 +1,10 @@
-<a href="logo.png">
-    <img src="logo.png" align="center" height="300" />
-</a>
-
-->Alizon<-
+<p align="center">
+  <b>Alizon</b><br>
+  <a href="logo.png">
+    <img src="logo.png" height="300" />
+  </a>
+  <br><br>
+</p>
 
 Cut out the Middleman
 ===========================
