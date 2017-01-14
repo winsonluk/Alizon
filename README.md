@@ -1,8 +1,8 @@
 <p align="center">
   <a href="logo.png">
     <img src="logo.png" height="300" />
-  </a>
-  #<b>Alizon</b><br>
+  </a><br>
+  #Alizon
   <br><br>
 </p>
 
