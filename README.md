@@ -1,8 +1,8 @@
 <a href="logo.png">
-    <img src="logo.png" align="center" height="500" />
+    <img src="logo.png" align="center" height="300" />
 </a>
 
-<h3 style="text-align: center;" markdown="1">Alizon</h3>
+->Alizon<-
 
 Cut out the Middleman
 ===========================
