@@ -15,7 +15,7 @@ Alizon extracts an Amazon product's ASIN (Amazon Standard Identification Number)
 
 Deploying the Software
 ------------------------------
-Almost everything in the Alizon works on Python 2.7. We've been using Python Flask module to provide a stable server for the requests. Our server is located on <a href='pythonanywhere.com'>pythonanywhere.com</a>
+Almost everything in the Alizon works on Python 2.7. We've been using Python Flask module to provide a stable server for the requests. Our server is located on <a href='pythonanywhere.com'>pythonanywhere.com</a>. Server takes in a link from a user (using JavaScript <a href='https://chrome.google.com/webstore/category/extensions'>Google Chrome Extension</a>)
 
 <p align="center">
     <img src="docs/images/logo_shiny.png" height="100" />
