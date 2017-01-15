@@ -17,7 +17,7 @@ Deploying the Software
 ------------------------------
 Almost everything in the Alizon works on Python 2.7. We've been using Python Flask module to provide a stable server for the requests. Our server is located on <a href='pythonanywhere.com'>https://pythonanywhere.com</a>. Server takes in a link from a user (using JavaScript <a href='https://chrome.google.com/webstore/category/extensions'>Google Chrome Extension</a>), then it processes the information given by <a href='https://pypi.python.org/pypi/python-amazon-product-api/'>Amazon's api</a> and goes through a thorough comparison with lots of products on Aliexpress. In order to find the best match among products, we have been using <a href='https://pypi.python.org/pypi/aliexpress-api-client/0.1.0'>Aliexpress Api</a>, <a href='http://www.pythonware.com/products/pil/'>PIL Library</a> and some amount of computational libraries. On the client side, beyond JavaScript, we've been using <a href='http://api.jquery.com/jquery.ajax/'>jQuery with Ajax</a>.
 
-<img src="docs/images/keyboard.gif" width = "500"/>
+<img src="docs/images/keyboard.gif" width = "700" height="800" align="center"/>
 
 <p align="center">
     <img src="docs/images/logo_shiny.png" height="100" />
